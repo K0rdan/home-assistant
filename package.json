@@ -1,0 +1,17 @@
+{
+  "name": "home-assistant",
+  "version": "1.0.0",
+  "author": "K0rdan",
+  "license": "ISC",
+  "description": "My own integration of the repository https://github.com/home-assistant/home-assistant",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K0rdan/home-assistant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/K0rdan/home-assistant/issues"
+  },
+  "homepage": "https://github.com/K0rdan/home-assistant#readme"
+}
